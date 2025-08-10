@@ -1,2 +1,3 @@
 # multiagent-traffic-signal
-Official code for Laminar, a multi-agent AI framework for proactive traffic management
+This is the official repository for the paper 
+"_Multi-agent AI Framework for Proactive Traffic Management_".  
